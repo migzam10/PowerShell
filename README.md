@@ -5,5 +5,5 @@ Os recomiendo una guia de aprendizaje con ejemplos de powershell. https://riptut
 
 #Restricted
 ```powershell
-Set-ExecutionPolict Unrestricted
+Set-ExecutionPolicy Unrestricted
 ```
